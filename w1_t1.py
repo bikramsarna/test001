@@ -1,7 +1,8 @@
 """
-Week 2 - In-Class Excercise
+helloworld.py
+
+A program to say hello
 """
 
-print("Hello World")
-print(True)
-print(1, 2, 3, 5)
+if __name__ == '__main__':
+    print('Hello, Git world!')
