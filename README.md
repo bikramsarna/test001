@@ -10,4 +10,3 @@ Here are some things I like
 * Mangoes
 * Pineapple
 * Oranges
-* I should not have added this line
