@@ -8,3 +8,4 @@ Here are some things I like
 * Bananas
 * Apples
 * Mangoes
+* Pineapple
